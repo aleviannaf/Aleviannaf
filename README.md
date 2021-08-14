@@ -1,6 +1,6 @@
-# 👋 Oii! Eu sou o Alexandre Viana P.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software engineering
+# 👋 Hi! I am Alexandre Viana P. 
+- 👀 I'm a Software Engineer and I work as a Front-End Developer. 💻
+- 🌍 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes. 🧠
 - 💞️ I'm looking to collaborate to build a better world
 
 
