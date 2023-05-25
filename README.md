@@ -1,5 +1,5 @@
 # 👋 Hi! I am Alexandre Viana P. 
-- 👀 I'm a developer and I work as a Front-End Developer. 💻
+- 👀 I'm a developer and I work as a Front-End/Fullstack Developer. 💻
 - 📍 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes. �
 - 💞️ I'm looking to collaborate to build a better world
 
