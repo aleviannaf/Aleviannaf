@@ -19,11 +19,13 @@
 
  <div align="center">
   <a href="https://github.com/aleviannaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleviannaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleviannaf&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleviannaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleviannaf&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
+
+  #
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aleviannaf&theme=dark)](https://git.io/streak-stats)
+  #
   
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
@@ -34,10 +36,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"></a> 
+ 
  <div>
   
   ##
-  
-  <div> 
- 
-</div>
